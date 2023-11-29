@@ -4,7 +4,7 @@
 analyze Amazon sales data using Python libraries (pandas, numpy, matplotlib, seaborn) to gain insights into customer demographics, product preferences, and sales trends.
 
 ## **Dataset used**
-Amazon Sales Report Dataset
+[Amazon Sales Report Dataset](https://github.com/Santhosh-B-45/Python_Amazon_Sales_Analysis/blob/main/Amazon%20Sale%20Report%20Dataset.csv)
 
 ## Data Cleaning
 - Addressed missing values, duplicates, and outliers.
